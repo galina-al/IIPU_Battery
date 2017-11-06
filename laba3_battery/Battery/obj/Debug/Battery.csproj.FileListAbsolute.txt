@@ -1,0 +1,12 @@
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\bin\Debug\Battery.exe.config
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\bin\Debug\Battery.exe
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\bin\Debug\Battery.pdb
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\obj\Debug\Battery.csprojResolveAssemblyReference.cache
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\obj\Debug\Battery.Battery.resources
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\obj\Debug\Battery.Properties.Resources.resources
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\obj\Debug\Battery.csproj.GenerateResource.Cache
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\obj\Debug\Battery.exe
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\IIPU_3-master\Battery\obj\Debug\Battery.pdb
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\лабы\лаба3\laba3_battery\Battery\bin\Debug\Battery.exe.config
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\лабы\лаба3\laba3_battery\Battery\obj\Debug\Battery.exe
+D:\мое\1.УЧЕБА-УНИВЕР\3 курс\ИиПУ\лабы\лаба3\laba3_battery\Battery\obj\Debug\Battery.pdb
